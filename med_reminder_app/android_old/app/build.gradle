@@ -1,0 +1,35 @@
+def flutterVersionCode = project.hasProperty('flutterVersionCode') ? project.flutterVersionCode.toInteger() : 1
+def flutterVersionName = project.hasProperty('flutterVersionName') ? project.flutterVersionName : "1.0"
+
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
+
+android {
+    compileSdkVersion 33
+    ndkVersion "27.0.12077973"
+
+    defaultConfig {
+        applicationId "com.example.med_reminder_app"
+        minSdkVersion 21
+        targetSdkVersion 33
+        versionCode flutterVersionCode
+        versionName flutterVersionName
+    }
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.debug
+        }
+    }
+}
+
+flutter {
+    source '../..'
+}
+
+dependencies {
+    classpath 'com.android.tools.build:gradle:7.2.0'
+
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+}

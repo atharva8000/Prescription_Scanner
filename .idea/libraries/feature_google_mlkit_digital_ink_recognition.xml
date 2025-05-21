@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-google_mlkit_digital_ink_recognition">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/google_mlkit_digital_ink_recognition/intermediates/merged_java_res/debug/mergeDebugJavaResource/feature-google_mlkit_digital_ink_recognition.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

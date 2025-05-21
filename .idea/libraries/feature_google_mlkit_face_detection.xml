@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-google_mlkit_face_detection">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/google_mlkit_face_detection/intermediates/merged_java_res/debug/mergeDebugJavaResource/feature-google_mlkit_face_detection.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

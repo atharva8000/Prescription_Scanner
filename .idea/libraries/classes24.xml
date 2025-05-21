@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="classes24">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/cloud_firestore/intermediates/aar_main_jar/debug/syncDebugLibJars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

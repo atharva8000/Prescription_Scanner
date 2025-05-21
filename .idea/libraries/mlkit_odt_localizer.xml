@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mlkit_odt_localizer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit_odt_localizer/mobile_object_localizer_3_1_anchors.pb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit_odt_localizer/mobile_object_localizer_labelmap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit_odt_localizer/localizer_with_validation.tflite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

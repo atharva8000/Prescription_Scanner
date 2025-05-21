@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="assets">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/packmapping.pb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/tflite_langid.tflite.jpg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/manifest.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/sensitive_model_020817.pb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/hobbes.tflite.jpg.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

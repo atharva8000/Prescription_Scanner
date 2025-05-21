@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mobile_ica_8bit_with_metadata_tflite">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit_label_default_model/mobile_ica_8bit_with_metadata_tflite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

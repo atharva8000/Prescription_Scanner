@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="mlkit_pose">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit_pose/pose_non_tracking_graph.binarypb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit_pose/pose_landmark_detector_full_f16.tflite.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit_pose/pose_tracking_graph.binarypb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit_pose/pose_non_tracking_graph_nnapi.binarypb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit_pose/pose_landmark_detector_lite_f16.tflite.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit_pose/pose_tracking_graph_nnapi.binarypb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit_pose/pose_person_detector_f16.tflite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

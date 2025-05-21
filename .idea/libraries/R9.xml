@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="R9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/google_mlkit_image_labeling/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

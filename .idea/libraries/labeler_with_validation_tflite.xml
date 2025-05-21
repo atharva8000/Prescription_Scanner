@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="labeler_with_validation.tflite">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit_odt_default_classifier/labeler_with_validation.tflite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286282425505",
+    "project_id": "medreminderapp-cea46",
+    "storage_bucket": "medreminderapp-cea46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286282425505:android:80d9516e4ed1c327793ce0",
+        "android_client_info": {
+          "package_name": "com.example.med_reminder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvm_MCu1pyXtxHydqqCkPlwuUAG0ELYDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

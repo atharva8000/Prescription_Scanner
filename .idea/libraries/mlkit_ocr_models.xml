@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="mlkit-ocr-models">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/region_proposal_text_detector_tflite_vertical.bincfg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_zh_0.1.conv_model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_latin_0.3.lstm_model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_latin_0.3.bincfg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/rpn_lstm_engine_tflite_latin.bincfg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_script_detector_0.3.lstm_model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/region_proposal_text_detector_tflite_gray_quantized.bincfg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/rpn_lstm_engine_tflite_zh_la.bincfg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_devanagari_0.1.bincfg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_script_detector_0.3.conv_model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_ja_0.1.conv_model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_zh_0.1.bincfg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_ko_0.1.bincfg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_ja_0.1.class_lst.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_zh_0.1.class_lst.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/seastar_lstm_recognizer_zh_0.2.class_lst.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/rpn_lstm_engine_tflite_ja_la.bincfg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/rpn_lstm_engine_tflite_ko_la.bincfg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_ja_0.1.bincfg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_langid.tflite.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_devanagari_0.1.lstm_model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_ko_0.1.class_lst.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_ja_0.1.lstm_model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_ko_0.1.lstm_model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_latin_0.3.class_lst.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_devanagari_0.1.class_lst.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_zh_0.1.lstm_model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_script_detector_0.3.bincfg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/rpn_lstm_engine_tflite_devanagari_la.bincfg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_ko_0.1.conv_model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_devanagari_0.1.conv_model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/mlkit-ocr-models/tflite_lstm_recognizer_latin_0.3.conv_model.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

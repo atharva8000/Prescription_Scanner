@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-camera_android_camerax">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/med_reminder_app/build/camera_android_camerax/intermediates/merged_java_res/debug/mergeDebugJavaResource/feature-camera_android_camerax.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
